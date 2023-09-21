@@ -1,1 +1,18 @@
-h1
+h1{
+    text-align: center ;
+    font-size: 25px;
+    color: rgba(255, 0, 200, 0.39);
+}
+body {h1
+    background-color: rgba(0, 0, 0, 0) ;
+}
+.jogo {
+    width: 20%;
+}
+.ini{
+    background-image: url(");
+    padding: 5%;
+}
+.button{
+display: inline-block;
+padding: 10px 20px;
