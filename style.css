@@ -19,4 +19,8 @@ padding: 10px 20px;
 }
 li{
     color: rgb(255, 255, 255);
+    text-align: left;
+}
+p{
+    color: gold;
 }
